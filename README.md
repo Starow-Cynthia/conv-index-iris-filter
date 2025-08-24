@@ -9,13 +9,12 @@ It includes scripts for computing gradients, applying iris filters, and analyzin
 
 conv_index_iris_filter/
 │── images/ # Sample input images
-│── RESULTS/ # Output results (generated automatically)
-│── compute_gradient.m # Function to compute image gradients
+│── RESULTS/ # Output results
+│── compute_gradient.m # Computes image gradients
 │── iris_filter.m # Core iris filter implementation
-│── iris_radial_directions.m # Function to calculate radial directions
-│── main.m # Main script to run the workflow
-│── README.md # Project documentation
----
+│── iris_radial_directions.m # Calculates radial directions
+│── main.m # Main script to run
+│── README.md # Documentation
 
 ## 🚀 Getting Started
 
